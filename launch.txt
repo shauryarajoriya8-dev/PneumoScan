@@ -1,0 +1,5 @@
+cd E:\s\projects\pneumoscan\ML_Proj  (move to Project Path)
+
+python chest_xray.py
+
+
